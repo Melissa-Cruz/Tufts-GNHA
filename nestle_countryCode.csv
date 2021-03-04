@@ -1,0 +1,191 @@
+﻿Countries,Country_Code,World_Regions
+Afghanistan,AF,Asia
+Albania,AL,Europe
+Algeria,DZ,Africa
+Andorra,AD,Europe
+Angola,AO,Africa
+Antigua and Barbuda,AG,Central America
+Argentina,AR,South America
+Armenia,AM,Asia
+Aruba,AW,Central America
+Australia,AU,Oceania
+Austria,AT,Europe
+Azerbaijan,AZ,Asia
+"Bahamas, The",BS,Central America
+Bahrain,BH,Asia
+Bangladesh,BD,Asia
+Barbados,BB,Central America
+Belarus,BY,Europe
+Belgium,BE,Europe
+Belize,BZ,Central America
+Benin,BJ,Africa
+Bermuda,BM,North America
+Bhutan,BT,Asia
+Bolivia,BO,South America
+Bosnia and Herzegovina,BA,Europe
+Botswana,BW,Africa
+Brazil,BR,South America
+Bulgaria,BG,Europe
+Burkina Faso,BF,Africa
+Burundi,BI,Africa
+Cambodia,KH,Asia
+Cameroon,CM,Africa
+Canada,CA,North America
+Cape Verde,CV,Africa
+Central African Republic,CF,Central America
+Chad,TD,Africa
+Chile,CL,South America
+China,CN,Asia
+Colombia,CO,South America
+Comoros,KM,Africa
+"Congo, Dem. Rep.",CD,Africa
+"Congo, Rep.",CG,Africa
+Costa Rica,CR,Central America
+Cote d'Ivoire,CI,Africa
+Croatia,HR,Europe
+Cuba,CU,Central America
+Cyprus,CY,Europe
+Czech Republic,CZ,Europe
+Denmark,DK,Europe
+Dominica,DM,Central America
+Dominican Republic,DO,Central America
+Ecuador,EC,South America
+"Egypt, Arab Rep.",EG,Africa
+El Salvador,SV,Central America
+Equatorial Guinea,GQ,Africa
+Eritrea,ER,Africa
+Estonia,EE,Europe
+Ethiopia,ET,Africa
+Fiji,FJ,Oceania
+Finland,FI,Europe
+France,FR,Europe
+Gabon,GA,Africa
+"Gambia, The",GM,Africa
+Georgia,GE,Middle East
+Germany,DE,Europe
+Ghana,GH,Africa
+Greece,GR,Europe
+Greenland,GL,North America
+Grenada,GD,Central America
+Guam,GU,Oceania
+Guatemala,GT,Central America
+Guinea,GN,Africa
+GuineaBissau,GW,Africa
+Guyana,GY,South America
+Haiti,HT,Central America
+Honduras,HN,Central America
+"Hong Kong SAR, China",HK,Asia
+Hungary,HU,Europe
+Iceland,IS,Europe
+India,IN,Asia
+Indonesia,ID,Asia
+"Iran, Islamic Rep.",IR,Middle East
+Iraq,IQ,Middle East
+Ireland,IE,Europe
+Isle of Man,IM,Europe
+Israel,IL,Middle East
+Italy,IT,Europe
+Jamaica,JM,Central America
+Japan,JP,Asia
+Jordan,JO,Middle East
+Kazakhstan,KZ,Asia
+Kenya,KE,Africa
+Kiribati,KI,Oceania
+"Korea, Dem. Rep.",KP,Asia
+"Korea, Rep.",KR,Asia
+Kuwait,KW,Middle East
+Kyrgyz Republic,KG,Asia
+Lao PDR,LA,Asia
+Latvia,LV,Europe
+Lebanon,LB,Middle East
+Lesotho,LS,Africa
+Liberia,LR,Africa
+Libya,LY,Africa
+Liechtenstein,LI,Europe
+Lithuania,LT,Europe
+Luxembourg,LU,Europe
+Macau,MO,Asia
+"Macedonia, FYR",MK,Europe
+Madagascar,MG,Africa
+Malawi,MW,Africa
+Malaysia,MY,Asia
+Maldives,MV,Asia
+Mali,ML,Africa
+Malta,MT,Europe
+Marshall Islands,MH,Oceania
+Mauritania,MR,Africa
+Mauritius,MU,Africa
+Mexico,MX,South America
+Moldova,MD,Europe
+Mongolia,MN,Asia
+Montenegro,ME,Europe
+Morocco,MA,Africa
+Mozambique,MZ,Africa
+Myanmar,MM,Asia
+Namibia,NA,Africa
+Nepal,NP,Asia
+Netherlands,NL,Europe
+New Zealand,NZ,Oceania
+Nicaragua,NI,Central America
+Niger,NE,Africa
+Nigeria,NG,Africa
+Norway,NO,Europe
+Oman,OM,Middle East
+Pakistan,PK,Asia
+Palau,PW,Oceania
+Panama,PA,Central America
+Papua New Guinea,PG,Oceania
+Paraguay,PY,South America
+Peru,PE,South America
+Philippines,PH,Asia
+Poland,PL,Europe
+Portugal,PT,Europe
+Puerto Rico,PR,Central America
+Qatar,QA,Middle East
+Romania,RO,Europe
+Russian Federation,RU,Europe
+Rwanda,RW,Africa
+Samoa,WS,Oceania
+San Marino,SM,Europe
+Saudi Arabia,SA,Middle East
+Senegal,SN,Africa
+Serbia,RS,Europe
+Seychelles,SC,Africa
+Sierra Leone,SL,Africa
+Singapore,SG,Asia
+Slovak Republic,SK,Europe
+Slovenia,SI,Europe
+Solomon Islands,SB,Oceania
+Somalia,SO,Africa
+South Africa,ZA,Africa
+Spain,ES,Europe
+Sri Lanka,LK,Asia
+Sudan,SD,Africa
+Suriname,SR,South America
+Swaziland,SZ,Africa
+Sweden,SE,Europe
+Switzerland,CH,Europe
+Syrian Arab Republic,SY,Middle East
+Tajikistan,TJ,Asia
+Tanzania,TZ,Africa
+Thailand,TH,Asia
+Togo,TG,Africa
+Tonga,TO,Oceania
+Trinidad and Tobago,TT,Central America
+Tunisia,TN,Africa
+Turkey,TR,Middle East
+Turkmenistan,TM,Asia
+Uganda,UG,Africa
+Ukraine,UA,Europe
+United Arab Emirates,AE,Middle East
+United Kingdom,GB,Europe
+United States,US,North America
+Uruguay,UY,South America
+Uzbekistan,UZ,Asia
+"Venezuela, RB",VE,South America
+Vietnam,VN,Asia
+West Bank and Gaza,WB,Asia
+"Yemen, Rep.",YE,Middle East
+Zambia,ZM,Africa
+Zimbabwe,ZW,Africa
+(blank),(blank),(blank)
